@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 34 45% 97%;
+    --foreground: 30 32% 18%;
+    --card: 0 0% 100%;
+    --card-foreground: 30 32% 18%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 30 32% 18%;
+    --primary: 30 42% 35%;
+    --primary-foreground: 34 45% 97%;
+    --secondary: 34 40% 92%;
+    --secondary-foreground: 30 32% 18%;
+    --muted: 34 30% 92%;
+    --muted-foreground: 30 18% 42%;
+    --accent: 35 45% 78%;
+    --accent-foreground: 30 32% 18%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 34 45% 97%;
+    --border: 34 28% 84%;
+    --input: 34 28% 84%;
+    --ring: 30 42% 35%;
+    --radius: 1rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-olive-50 font-sans text-olive-700 antialiased;
+    background: #faf7f1;
+    min-width: 320px;
+    position: relative;
+    overflow-x: hidden;
+  }
+
+  #root {
+    position: relative;
+    isolation: isolate;
+  }
+
+  section,
+  footer {
+    position: relative;
+  }
+
+  section[id] {
+    scroll-margin-top: 88px;
+  }
+
+  section::before,
+  footer::before {
+    content: none;
+  }
+
+  section > *,
+  footer > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+
+  ::selection {
+    background: rgba(180, 136, 75, 0.18);
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply px-4 py-12 sm:px-6 sm:py-14 lg:px-16 lg:py-16 xl:px-24;
+  }
+
+  .overline {
+    @apply text-xs font-semibold uppercase tracking-[0.24em] text-olive-500;
+  }
+
+  .glass-nav {
+    @apply border-b border-olive-200/70 bg-olive-50/80 backdrop-blur-xl;
+  }
+
+  .site-shell {
+    position: relative;
+    z-index: 1;
+    background: #faf7f1;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

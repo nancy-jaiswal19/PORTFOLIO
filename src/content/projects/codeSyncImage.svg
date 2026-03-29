@@ -1,0 +1,24 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="70" y1="20" x2="860" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5D492F"/>
+      <stop offset="1" stop-color="#7F6A45"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" rx="30" fill="url(#bg3)"/>
+  <rect x="88" y="84" width="360" height="392" rx="26" fill="#EEDFC1" fill-opacity="0.12" stroke="#D2B27F" stroke-opacity="0.6"/>
+  <text x="118" y="142" fill="#F5EAD6" font-size="22" letter-spacing="2">CRIME PATTERN MAP</text>
+  <path d="M144 210 C188 178 236 186 262 222 C284 248 323 250 354 224 C388 194 432 208 448 240" stroke="#E0C48F" stroke-width="4" fill="none"/>
+  <path d="M144 286 C176 270 214 274 238 300 C258 322 292 330 326 312 C358 294 402 302 448 328" stroke="#E0C48F" stroke-width="4" fill="none"/>
+  <circle cx="212" cy="218" r="18" fill="#C28F4F" fill-opacity="0.6"/>
+  <circle cx="320" cy="244" r="24" fill="#B36D37" fill-opacity="0.58"/>
+  <circle cx="250" cy="300" r="14" fill="#D8B173" fill-opacity="0.55"/>
+  <circle cx="364" cy="316" r="20" fill="#B36D37" fill-opacity="0.55"/>
+  <rect x="510" y="106" width="306" height="162" rx="24" fill="#EFDCC0" fill-opacity="0.14" stroke="#D2B27F" stroke-opacity="0.6"/>
+  <text x="544" y="167" fill="#F8EFDD" font-size="44" font-family="Georgia">New York</text>
+  <text x="544" y="204" fill="#E5CFA8" font-size="18">Hotspot and time-window analysis</text>
+  <rect x="510" y="292" width="306" height="184" rx="24" fill="#EFDCC0" fill-opacity="0.1" stroke="#D2B27F" stroke-opacity="0.6"/>
+  <text x="544" y="348" fill="#F4E7CD" font-size="18">Data sources: Excel + Python</text>
+  <text x="544" y="382" fill="#E8D3AF" font-size="18">Pattern correlation and</text>
+  <text x="544" y="416" fill="#E8D3AF" font-size="18">repeatable notebook workflow</text>
+</svg>

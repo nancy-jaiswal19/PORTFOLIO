@@ -1,0 +1,36 @@
+Nancy Jaiswal
+SiddharthNagar, Uttar Pradesh - India
+
+Mobile: +91 9305406903
+Email: nancyjais1907@gmail.com
+LinkedIn: https://www.linkedin.com/in/nancy-jaiswal19/
+GitHub: https://github.com/nancy-jaiswal19
+
+OBJECTIVE
+Backend-focused software developer with strong foundations in programming, APIs, databases, and data analysis. Seeking opportunities to build reliable applications, improve product workflows, and contribute to practical engineering teams.
+
+EDUCATION
+Lovely Professional University, Punjab
+Bachelor of Technology in Computer Science and Engineering
+2023 - Present
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, C++, Java, SQL
+Backend: Node.js, Express, REST APIs, MongoDB, MySQL, PostgreSQL
+Data: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI
+Tools: GitHub, Postman, Vercel, Render, Jupyter Notebook, Docker basics
+
+PROJECTS
+EmotionScope
+- Built a real-time sentiment analysis tool using TF-IDF and Logistic Regression.
+- Created reusable preprocessing and model inference flow for consistent predictions.
+
+EV Adoption Analysis Dashboard
+- Analyzed Washington EV adoption data and created visual reporting around trends and policy impact.
+
+Crime Patterns Across New York
+- Cleaned and analyzed crime records to identify hotspots and temporal trends using Python and Excel.
+
+ACHIEVEMENTS
+- Top 5 in Code Off Duty hackathon
+- Top 10 in Arena hackathon

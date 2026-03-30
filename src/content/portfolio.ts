@@ -120,7 +120,7 @@ export const certificates: Array<{
     summary:
       "Built complex API architectures and database-driven applications.",
     skills: ["APIs", "Database", "Backend"],
-    link: "https://drive.google.com/file/d/1nhxpWAEUx2E16m1O9bXYBdmELKQQg8ZN/view?usp=",
+    link: "https://www.freecodecamp.org/certification/fcc7021da78-dfd1-45c6-96e6-fd91de608385/responsive-web-design",
   },
   {
     title: "Introduction to Hardware and Operating Systems",
@@ -129,7 +129,7 @@ export const certificates: Array<{
     summary:
       "Built foundational understanding of computer hardware, operating system concepts, system components, and how software interacts with underlying machines.",
     skills: ["Hardware", "Operating Systems", "Systems"],
-    link: "https://drive.google.com/file/d/19xMhXPuNeIUi_6lgKl85KDQiraf2RCK5/view?usp=sharing",
+    link: "https://drive.google.com/drive/folders/1FODGdxvaqc_SzNR401JHXk14HYasCmKs",
   },
   {
     title: "Cloud Computing",
@@ -138,7 +138,7 @@ export const certificates: Array<{
     summary:
       "Completed NPTEL Cloud Computing coursework covering cloud service models, virtualization, distributed systems foundations, and scalable cloud architecture concepts.",
     skills: ["Cloud Computing", "Virtualization", "Distributed Systems"],
-    link: "https://drive.google.com/file/d/1Lx_C0WiR5uHeZ3aN_efEDYDOohF5R6BS/view?usp=sharing",
+    link: "https://drive.google.com/drive/folders/1FODGdxvaqc_SzNR401JHXk14HYasCmKs",
   },
 ];
 

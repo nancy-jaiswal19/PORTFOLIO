@@ -114,20 +114,11 @@ export const certificates: Array<{
     link: "https://www.hackerrank.com/certificates/40ea09bd51bb",
   },
   {
-    title: "Backend Development",
-    issuer: "FreeCodeCamp",
-    year: "2025",
-    summary:
-      "Built complex API architectures and database-driven applications.",
-    skills: ["APIs", "Database", "Backend"],
-    link: "https://www.freecodecamp.org/certification/fcc7021da78-dfd1-45c6-96e6-fd91de608385/responsive-web-design",
-  },
-  {
     title: "Introduction to Hardware and Operating Systems",
     issuer: "Coursera",
     year: "2024",
     summary:
-      "Built foundational understanding of computer hardware, operating system concepts, system components, and how software interacts with underlying machines.",
+    "Built foundational understanding of computer hardware, operating system concepts, system components, and how software interacts with underlying machines.",
     skills: ["Hardware", "Operating Systems", "Systems"],
     link: "https://drive.google.com/drive/folders/1FODGdxvaqc_SzNR401JHXk14HYasCmKs",
   },
@@ -136,9 +127,18 @@ export const certificates: Array<{
     issuer: "NPTEL",
     year: "2025",
     summary:
-      "Completed NPTEL Cloud Computing coursework covering cloud service models, virtualization, distributed systems foundations, and scalable cloud architecture concepts.",
+    "Completed NPTEL Cloud Computing coursework covering cloud service models, virtualization, distributed systems foundations, and scalable cloud architecture concepts.",
     skills: ["Cloud Computing", "Virtualization", "Distributed Systems"],
     link: "https://drive.google.com/drive/folders/1FODGdxvaqc_SzNR401JHXk14HYasCmKs",
+  },
+  {
+    title: "Backend Development",
+    issuer: "FreeCodeCamp",
+    year: "2025",
+    summary:
+      "Built complex API architectures and database-driven applications.",
+    skills: ["APIs", "Database", "Backend"],
+    link: "https://www.freecodecamp.org/certification/fcc7021da78-dfd1-45c6-96e6-fd91de608385/responsive-web-design",
   },
 ];
 

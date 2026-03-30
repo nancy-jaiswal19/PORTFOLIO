@@ -66,7 +66,7 @@ const skillsData = [
         ),
       },
       {
-        n: 'Algorithms',
+        n: 'JavaScript',
         w: '92%',
         ico: (
           <Icon>
@@ -75,7 +75,7 @@ const skillsData = [
         ),
       },
       {
-        n: 'Problem Solving',
+        n: 'SQL',
         w: '95%',
         ico: (
           <Icon>
@@ -145,16 +145,7 @@ const skillsData = [
           </Icon>
         ),
       },
-      {
-        n: 'JavaScript',
-        w: '93%',
-        ico: (
-          <Icon>
-            <path d="M3 20h18M3 20V4" />
-            <path d="M5 15l4-5 4 3 5-7" />
-          </Icon>
-        ),
-      },
+      
     ],
   },
   {

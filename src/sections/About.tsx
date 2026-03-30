@@ -1,5 +1,5 @@
 import { profile } from '@/content/portfolio';
-import aboutMePhoto from '@/content/about-me.jpg';
+import aboutMePhoto from '@/content/about-me.jpeg';
 import EditorialSectionHeader from '@/components/EditorialSectionHeader';
 
 const About = () => {
